@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630522732 source:c:\users\lemon\codeblockspro\cg_project\cg project.cpp
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+
